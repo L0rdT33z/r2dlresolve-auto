@@ -1,2 +1,3 @@
 # r2dlresolve-auto
-Automation for return2dlsolve binary exploit 
+Automation for return2dlsolve binary exploitation 
+JMPREL Finder
